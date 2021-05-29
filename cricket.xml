@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<CricketTeam>
+            <Team country='India'>
+                        <player>M S Dhoni</player>
+                        <wicket>4</wicket>    
+                        <runs>10773</runs>
+                               
+            </Team>
+                       
+            <Team country='England'>
+                        <player>Sam currun</player>
+                        <wicket>18</wicket>
+                        <runs>655</runs>
+            </Team>                   
+</CricketTeam>
